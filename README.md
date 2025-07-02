@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/blackhole.gif" width="40"/> 𝖑𝖞𝖓𝖝𝖓𝖚𝖑𝖑</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/blackhole.gif" width="40"/> 𝖉𝖊𝖛𝖓𝖚𝖑𝖑</h1>
 
 ```sh
 # whoami
@@ -45,12 +45,12 @@ netcat ░ gobuster ░ tcpdump ░ impacket ░ bloodhound
 
 ```sh
 # Contact
-└─► email: lynxnull@protonmail.com
-└─► github: github.com/lynxnull
+└─► email: devnull@protonmail.com
+└─► github: github.com/devnull
 ```
 
 > “No logs. No traces. Just 0day whispers in the static.” 🐉
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lynxnull&show_icons=true&hide=prs&theme=radical" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devnull&show_icons=true&hide=prs&theme=radical" /></p>
