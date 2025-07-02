@@ -45,8 +45,8 @@ netcat ░ gobuster ░ tcpdump ░ impacket ░ bloodhound
 
 ```sh
 # Contact
-└─► email: devnull@protonmail.com
-└─► github: github.com/devnull
+└─► email: devnulx64@proton.me
+└─► github: github.com/deevnull
 ```
 
 > “No logs. No traces. Just 0day whispers in the static.” 🐉
